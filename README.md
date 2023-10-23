@@ -1,7 +1,7 @@
 [![MasterHead](https://www.rathinamcollege.edu.in/wp-content/uploads/2020/06/electrical-eng.png)
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">Ingénieur déterminé, doté d'un Brevet d'Innovation, d'un Label Projet Innovant, et d'un Diplôme Startup. Motivé à développer constamment mes compétences et à apporter des idées pertinentes. Confiant dans ma capacité à exceller professionnellement. Aspirant à me développer au sein de votre école pour enrichir mes connaissances et compétences.</h3>
+<h3 align="center">Determined engineer, holding an Innovation Patent, Innovative Project Label, and Startup Diploma. Motivated to continuously develop my skills and bring forth relevant ideas. Confident in my ability to excel professionally. Aspiring to grow within your institution to enrich my knowledge and skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.rathinamcollege.edu.in/wp-content/uploads/2020/06/electrical-eng.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amourii&label=Profile%20views&color=0e75b6&style=flat" alt="amourii" /> </p>
