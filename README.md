@@ -1,14 +1,14 @@
 [![MasterHead](https://www.rathinamcollege.edu.in/wp-content/uploads/2020/06/electrical-eng.png)
 
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">As an electrical engineering student and future engineer, I'm highly motivated to constantly develop my skills and progress professionally. Passionate about the world of startups, I'm also interested in the opportunity to contribute to the development and growth of young, dynamic companies.</h3>
+<h3 align="center">Ingénieur déterminé, doté d'un Brevet d'Innovation, d'un Label Projet Innovant, et d'un Diplôme Startup. Motivé à développer constamment mes compétences et à apporter des idées pertinentes. Confiant dans ma capacité à exceller professionnellement. Aspirant à me développer au sein de votre école pour enrichir mes connaissances et compétences.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.rathinamcollege.edu.in/wp-content/uploads/2020/06/electrical-eng.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amourii&label=Profile%20views&color=0e75b6&style=flat" alt="amourii" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **graduation project**
+- 🔭 I’m currently working as  **Production & Maintenance Engineer**
 
 - 🌱 I’m currently learning **artificial intelligence**
 
